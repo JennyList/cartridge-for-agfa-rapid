@@ -1,4 +1,4 @@
-# Cartridge For Agfa Rapid cameras
+# Cartridge For Agfa Rapid Cameras
 A 3D-printable film cartridge for Agfa Rapid film cameras
 
 The Rapid film system was Agfa's answer to Kodak's 126 cartridge back in the 1960s, a quick-loading 35mm film format. It was based on an earlier Agfa cartridge, with the addition of a tab to select film speed.
