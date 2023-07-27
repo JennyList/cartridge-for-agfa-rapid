@@ -1,3 +1,19 @@
+/*
+A cartridge for Agfa Rapid cameras
+Jenny List 2023
+CC-BY-SA 4.0
+
+At the bottom of the file you'll find the commands to render the parts you'll need.
+
+RapidCartridge(iso) is the cartridge shell. Look at the code for ISOtab() for values of iso.
+
+RapidCartridgeLid() is the cartridge end. You'll need two of these mirrored.
+
+These two functions are internal.
+FilmSlideRing() is the ring inside the cartridge to reduce friction
+ISOtab(iso=25) is the tab component
+*/
+
 
 module FilmSlideRing(){ //thin ring for film to slide on
     difference(){
