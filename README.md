@@ -11,6 +11,8 @@ The cartridge and lids should be printed, then a set of two felt light seals sho
 
 The cartridge should be loaded with a piece of 35mm film about 70cm long, on which should fit the 12 exposures of a Rapid film. The film has to coil up in the cartridge, so it can't take much more film than this. I strongly recommend passing the end of the film into the take-up cartridge when you load the camera, rather than relying on Agfa's quick-load feature in which the film is supposed to feed into the cartridge.
 
+I've put up [a YouTube video with much more](https://www.youtube.com/watch?v=byiobFTktFw).
+
 Comprehensive information on Agfa Rapid film can be found on [this German Wikipedia page](https://de.wikipedia.org/wiki/Agfa_Rapid)
 
 ## Licence
